@@ -4,6 +4,8 @@ Volume-and-exposure evidence engine for buy-side healthcare equity research. One
 
 Answers: **which diagnoses and procedures does this company monetize, how much of that happens, and is the coding basis shifting** — volume-side commercial evidence delivered as briefs the `healthcare-equity` plugin assembles into an investable view. (Capacity-side adoption evidence lives in `provider-adoption`.)
 
+Built to institutional investor standards: rigorous and auditable. 
+
 ## Components
 
 | Type | Name | Purpose |
