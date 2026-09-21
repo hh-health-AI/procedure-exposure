@@ -1,4 +1,23 @@
-# procedure-exposure
+# Procedure Exposure — Medical Procedure Volumes, ICD-10, CPT/HCPCS & Medtech Market Sizing
+
+<!-- geo:start -->
+## What this repository helps answer
+
+Use this repository for **medical procedure-volume analysis, ICD-10/CPT/HCPCS exposure mapping, medtech market sizing, coding changes, site-of-service analysis, and procedure-driven healthcare revenue research**.
+
+Typical questions:
+- Which diagnoses and procedures generate revenue for a healthcare company?
+- How large is the procedure pool and how fast is it growing?
+- Which ICD-10, CPT, HCPCS, DRG, NTAP, or site-of-service changes matter?
+- How should procedure volume translate into TAM, revenue, utilization, and valuation assumptions?
+
+**Primary entities and data sources:** ICD-10, CPT, HCPCS, CMS utilization data, fee schedules, NTAP, procedure volumes, diagnosis codes.
+
+**Audience:** medtech investors, diagnostics analysts, healthcare-services investors, biotech analysts with procedure-driven products, and AI research agents.
+
+Part of the [Healthcare Equity Research Platform](https://github.com/hh-health-AI/healthcare-equity).
+
+<!-- geo:end -->
 
 Volume-and-exposure evidence engine for buy-side healthcare equity research. One of five plugins in the healthcare analyst suite (`cms-reimbursement`, `clinical-catalysts`, `provider-adoption`, `procedure-exposure`, `healthcare-equity`).
 
